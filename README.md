@@ -18,4 +18,4 @@ Meu objetivo é aprimorar minhas habilidades de programação, aprender linguage
 
 ## Contato
 
-Se você quiser entrar em contato comigo, pode me encontrar neste link [https://www.linkedin.com/in/karina-costa-094308238] ou me enviar um e-mail em [kaahcamposcosta@gmail.com].
+Se você quiser entrar em contato comigo, pode me encontrar no [Linkedin](https://www.linkedin.com/in/karina-costa-094308238) ou me enviar um [E-mail](kaahcamposcosta@gmail.com).
